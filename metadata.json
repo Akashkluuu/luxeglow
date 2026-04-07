@@ -1,0 +1,5 @@
+{
+  "name": "LuxeGlow E-Commerce",
+  "description": "A premium e-commerce platform for cosmetics, jewelry, and toys with real-time chat, Firebase auth, and Stripe payments.",
+  "requestFramePermissions": ["camera", "microphone", "geolocation"]
+}
